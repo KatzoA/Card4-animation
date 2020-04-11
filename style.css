@@ -2,20 +2,18 @@ body {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
+    background: #111111;
+
 }
 
 .container{
     position: relative;
     width: 1200px;
-    height: 600px;
-    margin: 80px auto 0;
-    background: #262626;
 }
 
 .container .box {
     position: relative;
     width: calc(400px - 30px);
-    height: calc(300px - 30px);
     background: #000;
     float: left;
     margin: 15px;
